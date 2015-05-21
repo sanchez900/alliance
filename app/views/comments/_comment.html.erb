@@ -1,9 +1,11 @@
 <div class='row'>
-	<div class='col-xs-3'><%= comment.commenter %></div>
+	<div class='col-xs-3'><b> <%= comment.commenter %></b> </div>
 	<div class='col-xs-9'><%= comment.body %></div>
 </hr></br></br>
 
-<div class='col-xs-12'>
+<div class='col-xs-9'>
+</div>
+<div class='col-xs-3'></br>
 	&nbsp;&nbsp;&nbsp;
   <%= link_to 'Destroy Comment', [comment.article, comment],
                method: :delete,
