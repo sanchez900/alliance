@@ -1,0 +1,43 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Recruitement Forms</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Fname</th>
+      <th>Ingame name</th>
+      <th>Email</th>
+      <th>Age</th>
+      <th>Country</th>
+      <th>Steam</th>
+      <th>Fb</th>
+      <th>Mastery rank</th>
+      <th>Join us</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @recruitement_forms.each do |recruitement_form| %>
+      <tr>
+        <td><%= recruitement_form.fname %></td>
+        <td><%= recruitement_form.ingame_name %></td>
+        <td><%= recruitement_form.email %></td>
+        <td><%= recruitement_form.age %></td>
+        <td><%= recruitement_form.country %></td>
+        <td><%= recruitement_form.steam_id %></td>
+        <td><%= recruitement_form.fb_id %></td>
+        <td><%= recruitement_form.mastery_rank %></td>
+        <td><%= recruitement_form.join_us %></td>
+        <td><%= link_to 'Show', recruitement_form %></td>
+        <td><%= link_to 'Edit', edit_recruitement_form_path(recruitement_form) %></td>
+        <td><%= link_to 'Destroy', recruitement_form, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Recruitement form', new_recruitement_form_path %>

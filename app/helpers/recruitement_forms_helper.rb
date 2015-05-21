@@ -1,0 +1,2 @@
+module RecruitementFormsHelper
+end

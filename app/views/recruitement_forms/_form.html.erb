@@ -1,0 +1,53 @@
+<%= form_for(@recruitement_form) do |f| %>
+  <% if @recruitement_form.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@recruitement_form.errors.count, "error") %> prohibited this recruitement_form from being saved:</h2>
+
+      <ul>
+      <% @recruitement_form.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :fname %><br>
+    <%= f.text_field :fname %>
+  </div>
+  <div class="field">
+    <%= f.label :ingame_name %><br>
+    <%= f.text_field :ingame_name %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br>
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <%= f.label :age %><br>
+    <%= f.number_field :age %>
+  </div>
+  <div class="field">
+    <%= f.label :country %><br>
+    <%= f.text_field :country %>
+  </div>
+  <div class="field">
+    <%= f.label :steam_id %><br>
+    <%= f.text_field :steam_id %>
+  </div>
+  <div class="field">
+    <%= f.label :fb_id %><br>
+    <%= f.text_field :fb_id %>
+  </div>
+  <div class="field">
+    <%= f.label :mastery_rank %><br>
+    <%= f.number_field :mastery_rank %>
+  </div>
+  <div class="field">
+    <%= f.label :join_us %><br>
+    <%= f.text_field :join_us %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

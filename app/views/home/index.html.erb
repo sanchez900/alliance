@@ -1,0 +1,54 @@
+<h3>Attention Gamming Community!</h3></br></br>
+
+<% if user_signed_in? %>
+	<% @articles.each do |article| %>
+	    <tr>
+	    	<td>
+			  <span class="has-tooltip" data-toggle="tooltip" title="<%= "Created on #{article.created_at.strftime("%m/%e/%Y at %w:%M %p")}, Last modified on #{article.updated_at.strftime("%m/%e/%Y at %w:%M %p")}" %>">
+			    <b><%= article.title %></b>
+			  </span>
+			</td>
+			</br></br>
+
+			<td>
+				<%= article.text %>
+			</td>
+			</br></br>
+
+			<td>
+		      	<% if article.text? %>
+				  <!-- Button trigger modal
+				  <button class="btn btn-link" data-toggle="modal" data-target="#article-<%= article.id %>-notes">
+				    Show Details
+				  </button>
+
+				  
+				  <div class="modal fade" id="article-<%= article.id %>-notes" tabindex="-1" role="dialog" aria-labelledby="article-<%= article.id %>-label" aria-hidden="true">
+				    <div class="modal-dialog">
+				      <div class="modal-content">
+				        <div class="modal-header">
+				          <h4 class="modal-title" id="todo-<%= article.id %>-label">Text</h4>
+				        </div>
+				        <div class="modal-body">
+				          <%= article.text %>
+				        </div>
+				        <div class="modal-footer">
+				          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+				        </div>
+				      </div>
+				    </div>
+				  </div>
+				  -->
+				<% end %>
+			</td>
+
+
+
+	      <td><%= link_to 'Go to the article page', article_path(article) %></td>
+
+
+
+	    </tr></br></br> <hr></br></br></br></br>
+	  <% end %>
+<% end %>
+

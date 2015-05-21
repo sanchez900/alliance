@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fname: MyString
+  ingame_name: MyString
+  email: MyString
+  age: 1
+  country: MyString
+  steam_id: MyString
+  fb_id: MyString
+  mastery_rank: 1
+  join_us: MyString
+
+two:
+  fname: MyString
+  ingame_name: MyString
+  email: MyString
+  age: 1
+  country: MyString
+  steam_id: MyString
+  fb_id: MyString
+  mastery_rank: 1
+  join_us: MyString
