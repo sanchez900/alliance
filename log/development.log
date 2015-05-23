@@ -15089,3 +15089,84 @@ Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body
 
 
 Started GET "/assets/application-11f5d5b1ac36f08b869201700531ae7f.js?body=1" for 127.0.0.1 at 2015-05-22 01:40:35 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-23 19:21:40 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 896ms (Views: 862.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/comments-10e0ba41ff21e00e75cb51c458b2e89e.css?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/scaffolds-0d4442735c893d8e2cdbb5bd4ae9f93a.css?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/recruitement_forms-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/articles-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/home-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/comments-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
+
+
+Started GET "/assets/application-11f5d5b1ac36f08b869201700531ae7f.js?body=1" for 127.0.0.1 at 2015-05-23 19:21:42 +0800
