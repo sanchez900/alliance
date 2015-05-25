@@ -12,6 +12,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
+gem "paperclip", "~> 4.2"
+gem 'ckeditor'
 
 group :production, :staging do
   gem "pg"
