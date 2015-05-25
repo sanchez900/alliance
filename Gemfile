@@ -17,7 +17,6 @@ gem 'ckeditor'
 
 group :production, :staging do
   gem "pg"
-  gem 'rails_12factor'
 end
 
 group :development, :test do
