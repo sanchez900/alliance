@@ -19,7 +19,6 @@ group :production, :staging do
   gem "pg"
 end
 
-
 group :development, :test do
   gem 'byebug'
   gem 'sqlite3'
