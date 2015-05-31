@@ -16757,3 +16757,1164 @@ Processing by Devise::SessionsController#new as HTML
   Rendered devise/shared/_links.html.erb (7.8ms)
   Rendered devise/sessions/new.html.erb within layouts/application (37.9ms)
 Completed 200 OK in 244ms (Views: 228.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-31 09:22:54 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 1163ms (Views: 1117.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/home-efa1972de387fd4490289e8a6cbcef12.css?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/games-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/scaffolds-0d4442735c893d8e2cdbb5bd4ae9f93a.css?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/recruitement_forms-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/comments-10e0ba41ff21e00e75cb51c458b2e89e.css?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/application-89faa6687c808fbffa4554703c93fc2c.css?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/ckeditor/init-324f4d1d8d916d21bac83cc9d6b890d3.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/ckeditor/ckeditor-8eb59125603474faf297552e3588533a.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:55 +0800
+
+
+Started GET "/assets/articles-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:56 +0800
+
+
+Started GET "/assets/comments-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:56 +0800
+
+
+Started GET "/assets/games-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:56 +0800
+
+
+Started GET "/assets/home-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:56 +0800
+
+
+Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:56 +0800
+
+
+Started GET "/assets/application-7c690cf7ccd8da0da47e5f150b7d6fc1.js?body=1" for 127.0.0.1 at 2015-05-31 09:22:56 +0800
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2015-05-31 09:22:59 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (8.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (207.6ms)
+Completed 200 OK in 511ms (Views: 468.4ms | ActiveRecord: 0.8ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2015-05-31 09:23:07 +0800
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oXZiY1rNy1WaJxf/EnbgHuoAPZY2C39bOPJpQT3byAjPYlH/k1NyO/+CsdZpwHzvLgDVrtwgZVeqBQs7hGgIdw==", "user"=>{"email"=>"p@g.co", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.5ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["email", "p@g.co"]]
+Completed 401 Unauthorized in 292ms
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oXZiY1rNy1WaJxf/EnbgHuoAPZY2C39bOPJpQT3byAjPYlH/k1NyO/+CsdZpwHzvLgDVrtwgZVeqBQs7hGgIdw==", "user"=>{"email"=>"p@g.co", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  Rendered devise/shared/_links.html.erb (6.1ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 349ms (Views: 246.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2015-05-31 09:23:13 +0800
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"u9I3+qyQzeCt/ZoTVIymSe5D0Sji5QeYqTy0di87EA/VxgRmZQ50jshYPDovOjq4KkM5EAjOHZQ7y9YMlojQcA==", "user"=>{"email"=>"p@g.co", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (3.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "p@g.co"]]
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mUPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["last_sign_in_at", "2015-05-21 17:02:01.929270"], ["current_sign_in_at", "2015-05-31 01:23:13.969868"], ["sign_in_count", 14], ["updated_at", "2015-05-31 01:23:13.973877"], ["id", 2]]
+  [1m[35m (21.1ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 184ms (ActiveRecord: 25.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-31 09:23:14 +0800
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+  [1m[35mArticle Load (0.1ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered home/index.html.erb within layouts/application (20.1ms)
+Completed 200 OK in 300ms (Views: 297.5ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-31 15:36:15 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.6ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered home/index.html.erb within layouts/application (58.2ms)
+Completed 200 OK in 633ms (Views: 606.4ms | ActiveRecord: 2.5ms)
+
+
+Started GET "/articles/" for 127.0.0.1 at 2015-05-31 15:36:23 +0800
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.2ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.8ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 339ms (Views: 337.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/1" for 127.0.0.1 at 2015-05-31 15:36:29 +0800
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 1]]
+  Rendered comments/_comment.html.erb (1.8ms)
+  Rendered comments/_form.html.erb (53.5ms)
+  Rendered articles/show.html.erb within layouts/application (138.2ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+Completed 200 OK in 392ms (Views: 359.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2015-05-31 15:36:44 +0800
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (4.4ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+Completed 200 OK in 287ms (Views: 285.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/new" for 127.0.0.1 at 2015-05-31 15:36:47 +0800
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (26.7ms)
+  Rendered articles/new.html.erb within layouts/application (28.3ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 257ms (Views: 255.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 15:36:47 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 15:36:47 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 15:36:47 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 15:36:47 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/icons.png" for 127.0.0.1 at 2015-05-31 15:36:48 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 15:36:48 +0800
+
+
+Started GET "/assets/ckeditor/plugins/image/dialogs/image.js?t=EAPE" for 127.0.0.1 at 2015-05-31 15:37:15 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/dialog.css?t=EAPE" for 127.0.0.1 at 2015-05-31 15:37:15 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/images/close.png" for 127.0.0.1 at 2015-05-31 15:37:16 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/images/lock.png" for 127.0.0.1 at 2015-05-31 15:37:16 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/images/refresh.png" for 127.0.0.1 at 2015-05-31 15:37:16 +0800
+
+
+Started POST "/ckeditor/pictures?CKEditor=sometext&CKEditorFuncNum=1&langCode=en&authenticity_token=LeEMphrV%2F8H80ImdEIcnpsPj8WYI7QCHC6XY2eSt7g89M2tlojrAc%2FZmrGM5M5Qg1WgU4ZI7ywWsA4s4KHM0sQ%3D%3D" for 127.0.0.1 at 2015-05-31 15:38:10 +0800
+Processing by Ckeditor::PicturesController#create as HTML
+  Parameters: {"upload"=>#<ActionDispatch::Http::UploadedFile:0x00000006441280 @tempfile=#<Tempfile:/tmp/RackMultipart20150531-5181-epkhma.png>, @original_filename="s85Xa.png", @content_type="image/png", @headers="Content-Disposition: form-data; name=\"upload\"; filename=\"s85Xa.png\"\r\nContent-Type: image/png\r\n">, "CKEditor"=>"sometext", "CKEditorFuncNum"=>"1", "langCode"=>"en", "authenticity_token"=>"LeEMphrV/8H80ImdEIcnpsPj8WYI7QCHC6XY2eSt7g89M2tlojrAc/ZmrGM5M5Qg1WgU4ZI7ywWsA4s4KHM0sQ=="}
+Command :: PATH=/usr/local/bin/:$PATH file -b --mime '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-u82zen.png'
+Command :: PATH=/usr/local/bin/:$PATH identify -format '%wx%h,%[exif:orientation]' '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p.png[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin/:$PATH identify -format %m '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p.png[0]'
+Command :: PATH=/usr/local/bin/:$PATH convert '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p.png[0]' -auto-orient -resize "800>" '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p20150531-5181-13aftap'
+Command :: PATH=/usr/local/bin/:$PATH file -b --mime '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p20150531-5181-13aftap'
+Command :: PATH=/usr/local/bin/:$PATH identify -format '%wx%h,%[exif:orientation]' '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p.png[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin/:$PATH identify -format %m '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p.png[0]'
+Command :: PATH=/usr/local/bin/:$PATH convert '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p.png[0]' -auto-orient -resize "x100" -crop "118x100+12+0" +repage '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p20150531-5181-8bhjzy'
+Command :: PATH=/usr/local/bin/:$PATH file -b --mime '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p20150531-5181-8bhjzy'
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Command :: PATH=/usr/local/bin/:$PATH file -b --mime '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-zyc2sz.png'
+Command :: PATH=/usr/local/bin/:$PATH identify -format '%wx%h,%[exif:orientation]' '/tmp/9d31deddb321abdd4ca9efdf2322679f20150531-5181-inth1p.png[0]' 2>/dev/null
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO "ckeditor_assets" ("type", "data_file_name", "data_content_type", "data_file_size", "assetable_id", "assetable_type", "created_at", "updated_at", "width", "height") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)  [["type", "Ckeditor::Picture"], ["data_file_name", "s85xa.png"], ["data_content_type", "image/png"], ["data_file_size", 51119], ["assetable_id", 2], ["assetable_type", "User"], ["created_at", "2015-05-31 07:38:11.523870"], ["updated_at", "2015-05-31 07:38:11.523870"], ["width", 500], ["height", 348]]
+  [1m[36m (41.7ms)[0m  [1mcommit transaction[0m
+  Rendered text template (0.0ms)
+Completed 200 OK in 956ms (Views: 18.6ms | ActiveRecord: 43.1ms)
+
+
+Started POST "/articles" for 127.0.0.1 at 2015-05-31 15:38:30 +0800
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"nXwolyvrPySu4km0Rhx9SqYVp/a21bw5oamTL7nMi3qNrk9UkwQAlqRUbEpvqM7MsJ5CcSwDd7sGD8DOdRJRxA==", "article"=>{"title"=>"This is the 7th", "text"=>"<p>testings <img alt=\"\" src=\"/ckeditor_assets/pictures/1/content_s85xa.png\" style=\"width: 500px; height: 348px;\" /></p>\r\n"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (2.7ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "This is the 7th"], ["text", "<p>testings <img alt=\"\" src=\"/ckeditor_assets/pictures/1/content_s85xa.png\" style=\"width: 500px; height: 348px;\" /></p>\r\n"], ["created_at", "2015-05-31 07:38:30.149345"], ["updated_at", "2015-05-31 07:38:30.149345"]]
+  [1m[35m (98.1ms)[0m  commit transaction
+Redirected to http://localhost:3000/articles/9
+Completed 302 Found in 114ms (ActiveRecord: 100.9ms)
+
+
+Started GET "/articles/9" for 127.0.0.1 at 2015-05-31 15:38:30 +0800
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 9]]
+  [1m[35mComment Load (5.3ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 9]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (2.6ms)
+  Rendered articles/show.html.erb within layouts/application (11.0ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 351ms (Views: 344.1ms | ActiveRecord: 5.5ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2015-05-31 15:38:38 +0800
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.4ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (5.4ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 348ms (Views: 345.5ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/articles/9" for 127.0.0.1 at 2015-05-31 15:38:44 +0800
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 9]]
+  [1m[36mComment Load (0.9ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 9]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (4.2ms)
+  Rendered articles/show.html.erb within layouts/application (8.1ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+Completed 200 OK in 230ms (Views: 226.9ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/articles/8" for 127.0.0.1 at 2015-05-31 15:41:27 +0800
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.8ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 8]]
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 8]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (10.0ms)
+  Rendered articles/show.html.erb within layouts/application (15.2ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 329ms (Views: 324.3ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/articles/9/edit" for 127.0.0.1 at 2015-05-31 15:41:33 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"9"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 9]]
+  Rendered articles/_form.html.erb (1.3ms)
+  Rendered articles/edit.html.erb within layouts/application (2.5ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 244ms (Views: 241.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 15:41:33 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 15:41:33 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 15:41:33 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 15:41:33 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 15:41:33 +0800
+
+
+Started GET "/articles" for 127.0.0.1 at 2015-05-31 15:41:37 +0800
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.1ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.7ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 256ms (Views: 253.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-31 21:04:52 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 991ms (Views: 955.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2015-05-31 21:04:56 +0800
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (6.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (204.3ms)
+Completed 200 OK in 412ms (Views: 394.0ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2015-05-31 21:05:03 +0800
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"WQg5qS9EuH0+AuJE39U2oV8cadEHXLvPTlDgiNRxCttG8XCOF7P4hdGOpxEnMOepG/+4sKNEsLmVjbnyvUUO+g==", "user"=>{"email"=>"p@g.co", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["email", "p@g.co"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  UPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?  [["last_sign_in_at", "2015-05-31 01:23:13.969868"], ["current_sign_in_at", "2015-05-31 13:05:03.520832"], ["sign_in_count", 15], ["updated_at", "2015-05-31 13:05:03.522514"], ["id", 2]]
+  [1m[36m (46.2ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 267ms (ActiveRecord: 47.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-31 21:05:03 +0800
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.8ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 2]]
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered home/index.html.erb within layouts/application (12.5ms)
+Completed 200 OK in 239ms (Views: 236.7ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/articles/" for 127.0.0.1 at 2015-05-31 21:05:24 +0800
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (3.5ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (10.8ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 268ms (Views: 263.9ms | ActiveRecord: 3.6ms)
+
+
+Started GET "/articles/9/edit" for 127.0.0.1 at 2015-05-31 21:05:27 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"9"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 9]]
+  Rendered articles/_form.html.erb (39.2ms)
+  Rendered articles/edit.html.erb within layouts/application (47.5ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 290ms (Views: 248.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:05:27 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:05:27 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:05:27 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:05:27 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:05:27 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:15:33 +0800
+
+
+Started GET "/assets/ckeditor/plugins/icons.png?t=EAPE" for 127.0.0.1 at 2015-05-31 21:15:33 +0800
+
+
+Started GET "/assets/ckeditor/plugins/image/dialogs/image.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:15:43 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/dialog.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:15:43 +0800
+
+
+Started GET "/articles/9/edit" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"9"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 9]]
+  Rendered articles/_form.html.erb (2.0ms)
+  Rendered articles/edit.html.erb within layouts/application (11.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 264ms (Views: 258.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/articles-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/scaffolds-0d4442735c893d8e2cdbb5bd4ae9f93a.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/recruitement_forms-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/application-89faa6687c808fbffa4554703c93fc2c.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/home-efa1972de387fd4490289e8a6cbcef12.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/comments-10e0ba41ff21e00e75cb51c458b2e89e.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/games-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:12 +0800
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/ckeditor/init-324f4d1d8d916d21bac83cc9d6b890d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/ckeditor/ckeditor-8eb59125603474faf297552e3588533a.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/articles-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/comments-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/games-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/home-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/application-7c690cf7ccd8da0da47e5f150b7d6fc1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/icons.png" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:13 +0800
+
+
+Started GET "/articles/9/edit" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"9"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 9]]
+  Rendered articles/_form.html.erb (2.0ms)
+  Rendered articles/edit.html.erb within layouts/application (4.2ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 254ms (Views: 252.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/articles-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/games-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/home-efa1972de387fd4490289e8a6cbcef12.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/scaffolds-0d4442735c893d8e2cdbb5bd4ae9f93a.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/recruitement_forms-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/application-89faa6687c808fbffa4554703c93fc2c.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/comments-10e0ba41ff21e00e75cb51c458b2e89e.css?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/comments-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/articles-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/ckeditor/init-324f4d1d8d916d21bac83cc9d6b890d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/ckeditor/ckeditor-8eb59125603474faf297552e3588533a.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/games-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/home-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/application-7c690cf7ccd8da0da47e5f150b7d6fc1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:22 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/icons.png" for 127.0.0.1 at 2015-05-31 21:18:23 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:18:23 +0800
+
+
+Started GET "/articles/9/edit" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"9"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 9]]
+  Rendered articles/_form.html.erb (15.4ms)
+  Rendered articles/edit.html.erb within layouts/application (19.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 273ms (Views: 272.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/articles-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/comments-10e0ba41ff21e00e75cb51c458b2e89e.css?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/scaffolds-0d4442735c893d8e2cdbb5bd4ae9f93a.css?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/recruitement_forms-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/home-efa1972de387fd4490289e8a6cbcef12.css?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/application-89faa6687c808fbffa4554703c93fc2c.css?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/games-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:33 +0800
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/ckeditor/init-324f4d1d8d916d21bac83cc9d6b890d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/ckeditor/ckeditor-8eb59125603474faf297552e3588533a.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/comments-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/articles-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/games-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/application-7c690cf7ccd8da0da47e5f150b7d6fc1.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/home-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/icons.png" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:21:34 +0800
+
+
+Started GET "/articles/" for 127.0.0.1 at 2015-05-31 21:21:56 +0800
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.2ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (8.5ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 323ms (Views: 322.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/1/edit" for 127.0.0.1 at 2015-05-31 21:21:57 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered articles/_form.html.erb (2.0ms)
+  Rendered articles/edit.html.erb within layouts/application (3.6ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 178ms (Views: 177.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:21:58 +0800
+
+
+Started GET "/articles/" for 127.0.0.1 at 2015-05-31 21:41:12 +0800
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.2ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.6ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 243ms (Views: 241.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/articles-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/scaffolds-0d4442735c893d8e2cdbb5bd4ae9f93a.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/recruitement_forms-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/home-efa1972de387fd4490289e8a6cbcef12.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/games-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/comments-10e0ba41ff21e00e75cb51c458b2e89e.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/application-89faa6687c808fbffa4554703c93fc2c.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/ckeditor/init-324f4d1d8d916d21bac83cc9d6b890d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/ckeditor/ckeditor-8eb59125603474faf297552e3588533a.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/comments-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/articles-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/home-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/games-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/assets/application-7c690cf7ccd8da0da47e5f150b7d6fc1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:13 +0800
+
+
+Started GET "/articles/8/edit" for 127.0.0.1 at 2015-05-31 21:41:15 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"8"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 8]]
+  Rendered articles/_form.html.erb (19.3ms)
+  Rendered articles/edit.html.erb within layouts/application (24.0ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 260ms (Views: 258.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:15 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:15 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:15 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:15 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/icons.png" for 127.0.0.1 at 2015-05-31 21:41:15 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:15 +0800
+
+
+Started GET "/articles/8/edit" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"8"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 8]]
+  Rendered articles/_form.html.erb (2.7ms)
+  Rendered articles/edit.html.erb within layouts/application (5.3ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 258ms (Views: 256.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/articles-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/comments-10e0ba41ff21e00e75cb51c458b2e89e.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/home-efa1972de387fd4490289e8a6cbcef12.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/recruitement_forms-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/application-89faa6687c808fbffa4554703c93fc2c.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/scaffolds-0d4442735c893d8e2cdbb5bd4ae9f93a.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/games-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/ckeditor/init-324f4d1d8d916d21bac83cc9d6b890d3.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/ckeditor/ckeditor-8eb59125603474faf297552e3588533a.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/articles-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/comments-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/games-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/home-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/application-7c690cf7ccd8da0da47e5f150b7d6fc1.js?body=1" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:34 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/icons.png" for 127.0.0.1 at 2015-05-31 21:41:35 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 21:41:35 +0800
+
+
+Started GET "/articles/8/edit" for 127.0.0.1 at 2015-05-31 22:05:35 +0800
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"8"}
+  [1m[35mArticle Load (0.1ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 8]]
+  Rendered articles/_form.html.erb (2.8ms)
+  Rendered articles/edit.html.erb within layouts/application (3.6ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 2]]
+Completed 200 OK in 226ms (Views: 224.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/articles-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/comments-10e0ba41ff21e00e75cb51c458b2e89e.css?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/home-efa1972de387fd4490289e8a6cbcef12.css?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/games-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/application-89faa6687c808fbffa4554703c93fc2c.css?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/scaffolds-0d4442735c893d8e2cdbb5bd4ae9f93a.css?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/recruitement_forms-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/alert-12c1121c517b3085934c9173c0e083ed.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/affix-a9b852fe44dc5982a51ffb66baa3ab2e.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/button-422bd197e0b53d2f7477cb521776aadb.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/tab-bb31fbcdd9289a81d659f197fca0efd0.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/carousel-1aca75d21b33f868f2d7b289fb1ad98d.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/dropdown-85b34e99a6b5bb1a35c8751aed3e09d7.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/collapse-20bda228e0a68013abcfe4ce3a88ac87.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/transition-20c428b2eccf2dcfaf8de396b7ad7b26.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/scrollspy-fca31083878040fe5fa93a655aed11ba.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/modal-19058d2f94ebcfb1a44bbfb8a52b8661.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/tooltip-fe9092020b9bc68210dc1de9c589d39c.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/init-324f4d1d8d916d21bac83cc9d6b890d3.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap-sprockets-b4bc28516a4674c29125b9de32ccd9d3.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/bootstrap/popover-7285d8d5ce28a05ba8b9fce5fcd87f74.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/ckeditor-8eb59125603474faf297552e3588533a.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/articles-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/recruitement_forms-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/comments-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/home-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/application-7c690cf7ccd8da0da47e5f150b7d6fc1.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/games-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/config.js?t=EAPE" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/editor_gecko.css?t=EAPE" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/lang/en.js?t=EAPE" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/styles.js?t=EAPE" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/skins/moono/icons.png" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
+
+
+Started GET "/assets/ckeditor/contents.css?t=EAPE" for 127.0.0.1 at 2015-05-31 22:05:36 +0800
