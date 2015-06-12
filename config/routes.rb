@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'mailer/mailing'
+
   mount Ckeditor::Engine => '/ckeditor'
   resources :games
 

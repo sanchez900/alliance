@@ -1,6 +1,17 @@
-<h3>Attention Gamming Community!</h3></br></br>
+<h2>Welcome to the falcon gamming community</h2>
+<div class="container">
+	<div class="row">		
+		<% @games.each do |game| %>
+			<div class="col-xs-3">
+				<%= game.name %>
+			</div>
+		<% end %>
+	</div>
+</div>
 
 <% if user_signed_in? %>
+<h3>Attention Gamming Community!</h3></br></br>
+
 	<% @articles.each do |article| %>
 	    <tr>
 	    	<td>
